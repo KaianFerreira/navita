@@ -1,5 +1,8 @@
-# navita
+# Navita
 O projeto tem o intuito de consumir a api da fipe e trazer marcas e seus respectivos modelos de automóvel
+
+# Versão web para testes
+https://kaianferreira.github.io/navita/
 
 ## Tecnologias usadas
 Vuejs
