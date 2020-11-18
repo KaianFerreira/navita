@@ -25,7 +25,7 @@ npm run serve
 npm run build
 ```
 
-### Executar Lints e concertar os arquivos files
+### Executar Lints e corrigir os arquivos
 ```
 npm run lint
 ```
