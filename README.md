@@ -1,24 +1,31 @@
 # navita
+O projeto tem o intuito de consumir a api da fipe e trazer marcas e seus respectivos modelos de automóvel
 
-## Project setup
+## Tecnologias usadas
+Vuejs
+Scss
+babel
+pwa
+mobile-first
+
+## Como instalar
+na pasta raiz do projeto execute:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar e desenvolver
+para entrar no modo de desenvolvimento utilize o comando:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar e minificar para produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Executar Lints e concertar os arquivos files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
