@@ -1,0 +1,33 @@
+table {
+  border-collapse: separate;
+  border-spacing: 0px 10px;
+  width: 100%;
+  * { padding: 10px; }
+  color: $text-color;
+  thead {
+    text-align: left;
+    th {
+      border-bottom: 1.5px solid #E3E6F0;
+      height: 30px;
+      position: sticky;
+      top: 0;
+      background-color: #ffff;
+    }
+  }
+  td {
+    border-bottom: 1px solid #E3E6F0;
+    &.action {
+      button {
+        color: $secondary-color;
+        transition: 0.3s;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        outline: none;
+        &:focus {
+         color: $primary-color; 
+        }
+      }
+    }
+  }
+}
