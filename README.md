@@ -5,20 +5,20 @@ O projeto tem o intuito de consumir a api da fipe e trazer marcas e seus respect
 https://kaianferreira.github.io/navita/
 
 ## Tecnologias usadas
-Vuejs
-Scss
-babel
-pwa
-mobile-first
+ Vuejs  
+ Scss  
+ babel  
+ pwa  
+ mobile-first  
 
 ## Como instalar
-na pasta raiz do projeto execute:
+Na pasta raiz do projeto execute:
 ```
 npm install
 ```
 
 ### Compilar e desenvolver
-para entrar no modo de desenvolvimento utilize o comando:
+Para entrar no modo de desenvolvimento utilize o comando:
 ```
 npm run serve
 ```
